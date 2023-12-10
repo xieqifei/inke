@@ -2,8 +2,8 @@ const baseSiteConfig = {
   name: "Inke | Note",
   description:
     "Inke is a notebook with AI assisted writing and real-time collaboration",
-  url: "https://inke.app",
-  metadataBase: new URL("https://inke.app"),
+  url: "https://inke.sci.ci",
+  metadataBase: new URL("https://inke.sci.ci"),
   keywords: [
     "Editor",
     "Notebook",
@@ -21,8 +21,8 @@ const baseSiteConfig = {
   ],
   authors: [
     {
-      name: "yesmore",
-      url: "https://github.com/yesmore",
+      name: "xieqifei",
+      url: "https://github.com/xieqifei",
     },
   ],
   creator: "@yesmoree",
